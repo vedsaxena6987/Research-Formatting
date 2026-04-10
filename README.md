@@ -57,4 +57,4 @@ If your Output Format is **LaTeX or PDF**, your template *must* be `.tex` format
 * The underlying FastAPI engine analyzes your formatting template and injects semantic tags mapped from your plain content document perfectly matching variables, letting you instantly build submission-ready publications!
 
 ---
-*Created automatically with Gemini.*
+*Created with ♥️ by Vedant Saxena *
